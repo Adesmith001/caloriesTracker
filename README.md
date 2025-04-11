@@ -20,4 +20,4 @@ A modern mobile-only calorie tracking app with exercise and water intake monitor
 
 1. Clone repository:
 ```bash
-git clone https://github.com/adesmith001/calorie-tracker.git
+git clone https://github.com/Adesmith001/calorieTracker.git
